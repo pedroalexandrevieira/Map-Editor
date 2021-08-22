@@ -7,11 +7,11 @@ bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and
 Technologies
 
 Java
-
 Simple Graphics
 
 
 Commands
+
 Arrows to move the cursor
 Spacebar to paint
 E to erase cell
