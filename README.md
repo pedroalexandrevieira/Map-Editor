@@ -1,5 +1,4 @@
 # Map-Editor
-<<<<<<< HEAD
 
 Map Editor is a challenge by Academia de Código
 bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and save the drawing using I/0 streams.
@@ -18,4 +17,4 @@ L to load drawing
 
 In a few days it will be finished
 =======
->>>>>>> dc96311dc7094ab804a90017d4e1e4ead009a97c
+
