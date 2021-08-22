@@ -5,17 +5,17 @@ bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and
 
 **Technologies**
 
-`Java`,
-`Simple Graphics`.
+`Java`
+`Simple Graphics`
 
 **Commands**
 
-`Arrows to move the cursor`,
-`Spacebar to paint`,
-`E to erase cell`,
-`C to clear the whole grid`,
-`S to save drawing`,
-`L to load drawing`.
+`Arrows to move the cursor`
+`Spacebar to paint`
+`E to erase cell`
+`C to clear the whole grid`
+`S to save drawing`
+`L to load drawing`
 
 In a few days it will be finished
 =======
