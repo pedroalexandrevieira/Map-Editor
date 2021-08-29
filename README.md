@@ -17,6 +17,5 @@ bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and
 `S to save drawing`
 `L to load drawing`
 
-In a few days it will be finished
-=======
+
 
